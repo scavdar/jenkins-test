@@ -1,7 +1,7 @@
 import random
 sayi = random.randint(1,11)
 a = "Hello World"
-name = "Serdar"
+name = "A. Serdar Cavdar"
 print(a)
 print("Test")
 print(name)
